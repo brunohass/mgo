@@ -6,7 +6,7 @@ import (
 	"sort"
 	"sync/atomic"
 
-	"github.com/izinga/mgo/bson"
+	"github.com/brunohass/mgo/bson"
 )
 
 var (

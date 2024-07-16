@@ -36,7 +36,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/izinga/mgo/bson"
+	"github.com/brunohass/mgo/bson"
 )
 
 // ---------------------------------------------------------------------------

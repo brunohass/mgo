@@ -40,8 +40,8 @@ import (
 	"testing"
 	"time"
 
-	mgo "github.com/izinga/mgo"
-	"github.com/izinga/mgo/bson"
+	mgo "github.com/brunohass/mgo"
+	"github.com/brunohass/mgo/bson"
 	. "gopkg.in/check.v1"
 )
 

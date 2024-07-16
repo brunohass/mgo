@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	mgo "github.com/izinga/mgo"
+	mgo "github.com/brunohass/mgo"
 	"gopkg.in/tomb.v2"
 )
 

@@ -47,7 +47,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/izinga/mgo/bson"
+	"github.com/brunohass/mgo/bson"
 
 	mongoDriverBson "go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

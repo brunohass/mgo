@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/izinga/mgo/internal/json"
+	"github.com/brunohass/mgo/internal/json"
 )
 
 func main() {
@@ -162,7 +162,7 @@ import (
 	"time"
 
 	. "gopkg.in/check.v1"
-    "github.com/izinga/mgo/bson"
+    "github.com/brunohass/mgo/bson"
 )
 
 func testValid(c *C, in []byte, expected []byte, result interface{}) {
